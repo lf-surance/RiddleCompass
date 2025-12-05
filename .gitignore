@@ -1,0 +1,13 @@
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows thumbnail cache
+Thumbs.db
+
+# Ignore WoW WTF/Cache (never commit these)
+WTF/
+Cache/
+
+# Ignore backup files
+*.bak
+*~
