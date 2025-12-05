@@ -1,0 +1,7 @@
+package-as: RiddleCompass
+
+ignore:
+  - README.md
+  - .gitignore
+  - CHANGELOG.md
+  - .pkgmeta
