@@ -1,0 +1,11 @@
+## Interface: 110207
+## Title: RiddleCompass
+## Notes: Automatically detects Decor Treasure Hunt riddles and sets waypoints.
+## Author: Surance
+## Version: 1.0.0
+## SavedVariables: RiddleCompassDB
+## IconTexture: Interface\AddOns\RiddleCompass\Media\Textures\AddonIcon
+
+core.lua
+riddles_alliance.lua
+riddles_horde.lua
